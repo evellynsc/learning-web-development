@@ -1,3 +1,3 @@
 # learning-web-development
 
-* Falcon Tutorial from  http://falcon.readthedocs.io/en/stable/user/tutorial.html
+* Falcon <a href="http://falcon.readthedocs.io/en/stable/user/tutorial.html" target="_blank">Tutorial</a>  
