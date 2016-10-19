@@ -1,0 +1,5 @@
+Run the server with this command in a terminal
+  $ firebase serve
+
+Open a browser and navigate to
+  http://localhost:5000
