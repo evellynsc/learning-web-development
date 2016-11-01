@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
+import { HeroDetailComponent } from './hero-detail.component';
 
 //You compose Angular applications into closely related blocks of functionality with NgModules.
 @NgModule({
@@ -10,7 +11,10 @@ import { AppComponent } from './app.component';
     BrowserModule,
     FormsModule
   ],
-  declarations: [ AppComponent ],
+  declarations: [
+    AppComponent,
+    HeroDetailComponent
+  ],
   bootstrap:    [ AppComponent ]
 })
 //Every Angular application has at least one module: the root module, named AppModule here.
