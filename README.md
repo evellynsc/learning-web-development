@@ -6,3 +6,5 @@
 
 * Ruby on Rails [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
+
+* [Next] Vue.js [Vue.js guides](https://vuejs.org/v2/guide/)
